@@ -1,0 +1,1 @@
+# Calcula distancia em km passando 2 pontos marcados por latitude e longitude - Pgsql
